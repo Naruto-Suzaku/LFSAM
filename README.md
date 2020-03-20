@@ -1,5 +1,5 @@
 # LFSAM
-package dependence
+package dependence：/
 scipy
 numpy
 h5py
